@@ -1,2 +1,3 @@
 Hello, Devin here i just want to say.... welcome:)
-We will post script here, enjoy:)...
+I will post script here, enjoy:)
+Subscribe to Fab and ElGato🥶
