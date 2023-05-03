@@ -1,3 +1,0 @@
-g = hookfunction(wait, function(seconds)
-return g(1)
-end)
