@@ -1,0 +1,20 @@
+_G.epitah = true 
+
+while _G.epitah == true do 
+
+local args = { 
+
+[1] = "Epitaph" 
+
+} 
+
+ 
+
+game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("King Crimson").KCLocalisedRemote:FireServer(unpack(args)) 
+
+wait() 
+
+end 
+
+ 
+
